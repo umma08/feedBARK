@@ -4,3 +4,7 @@ An audio feedback generator and self-regulator built in Max/MSP for implicit use
 Wekinator may be found here
 
 http://www.wekinator.org/kadenze/
+
+More information may be found in the README.txt
+
+
